@@ -1,8 +1,0 @@
-// Verify timezone
-timedatectl 
-
-//list timezones
-timedatectl list-timezones
-
-//change timezone
-timedatectl set-timezone Amerca/Sao_paulo
